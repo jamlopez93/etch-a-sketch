@@ -1,0 +1,9 @@
+.grid {
+  display: grid;
+  height: 575px;
+  width: 575px;
+}
+.grid-item {
+  background-color: white;
+  border: 1px solid black;
+}
